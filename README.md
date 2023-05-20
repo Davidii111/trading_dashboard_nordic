@@ -38,3 +38,8 @@ Demo running on [Render](https://tradingjounral.onrender.com)
 - [Waitress](https://docs.pylonsproject.org/projects/waitress/en/stable/): python WSGI server
 - [Bootstrap](https://getbootstrap.com/): CSS and JS framework
 - [Black](https://black.readthedocs.io/en/stable/): Python linting
+
+
+
+#Davids changes
+
