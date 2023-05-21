@@ -2,6 +2,7 @@
 
 A simple trade journal app built with Python Flask.
 
+[rd_nordic/blob/main/Dashboard.png](https://github.com/Davidii111/trading_dashboard_nordic/blob/main/Dashboard.png)
 ![home](https://github.com/mransbro/tradingjournal/blob/main/img/homepage.png)
 
 ## Installation
