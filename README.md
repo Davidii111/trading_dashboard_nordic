@@ -1,9 +1,10 @@
-# Trading journal
+# Trading dashboard
 
-A simple trade journal app built with Python Flask.
+A trading dashboard app built with Python Flask.
+This is a developement which was first done by mransbro, building an trading journal.
+The trading dashboard will at first be a dashboard adapted for swing trading strategies. Swing-trading is a trading style where you take positions for a few days up to months. This means that the tools we build for the dashboard should be adapted for that. In the future we could add more user customizations to adapt for different trading styles which could also open the demand for new tools.
 
-https://github.com/Davidii111/trading_dashboard_nordic/blob/main/Dashboard.png?raw=true
-[rd_nordic/blob/main/Dashboard.png](https://github.com/Davidii111/trading_dashboard_nordic/blob/main/Dashboard.png)
+![Dashboard](https://github.com/Davidii111/trading_dashboard_nordic/blob/main/Dashboard.png?raw=true)
 ![home](https://github.com/mransbro/tradingjournal/blob/main/img/homepage.png)
 
 ## Installation
@@ -24,10 +25,13 @@ Installing the app is easy:
 
 ## Want to try it out
 
-Demo running on [Render](https://tradingjounral.onrender.com)
+Demo of trading journal running on [Render](https://tradingjounral.onrender.com)
 
 ## Roadmap
 
+- Build dashboards
+- Build tools
+- Build integrations for brokers
 - Error handling
 - Tests
 - Reduce number of packages
@@ -40,8 +44,3 @@ Demo running on [Render](https://tradingjounral.onrender.com)
 - [Waitress](https://docs.pylonsproject.org/projects/waitress/en/stable/): python WSGI server
 - [Bootstrap](https://getbootstrap.com/): CSS and JS framework
 - [Black](https://black.readthedocs.io/en/stable/): Python linting
-
-
-
-#Davids changes
-
